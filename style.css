@@ -26,7 +26,7 @@
         margin: 0;
         padding: 0;
         background-image: url('./images/linux-plano-de-fundo.jpg');
-        background-size: auto; /* Ajusta a imagem para cobrir a área, mantendo a proporção */
+        background-size: 1400px auto; /* Ajusta a imagem para cobrir a área, mantendo a proporção */
         background-position:bottom; 
         background-attachment: scroll; /* Permite que a imagem role com o conteúdo */
     }
